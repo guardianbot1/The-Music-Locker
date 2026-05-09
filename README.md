@@ -36,7 +36,6 @@ This project implements a progressive four-stage pipeline of unsupervised deep l
 | Task 1 | LSTM Autoencoder | MAESTRO | Single-genre reconstruction baseline |
 | Task 2 | Variational Autoencoder (VAE) | Lakh MIDI | Multi-genre probabilistic generation |
 | Task 3 | Causal Transformer | MAESTRO (tokenized) | Long-horizon autoregressive generation |
-| Task 4 | RLHF Fine-tuning | Task 3 outputs | Human preference alignment |
 
 ---
 
