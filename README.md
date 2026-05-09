@@ -7,6 +7,11 @@
 ---
 ##DRIVE LINK FOR REPORT AND MIDI FILE
 https://drive.google.com/drive/folders/16rpAEPi8G3_5zmhd-RVarfDxDWjb2tNy?usp=sharing
+
+##Youtube guide
+https://www.youtube.com/watch?v=mxVp65-NcgU
+
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
