@@ -1,0 +1,26 @@
+{
+  "models": [
+    {
+      "model": "Random Generator",
+      "perplexity": null,
+      "n_files": 10,
+      "rhythm_diversity_mean": 0.0417,
+      "rhythm_diversity_std": 0.0,
+      "repetition_ratio_mean": 0.0034,
+      "repetition_ratio_std": 0.0068
+    },
+    {
+      "model": "Markov Chain",
+      "perplexity": null
+    },
+    {
+      "model": "Task 3: Transformer",
+      "perplexity": 4.3022,
+      "n_files": 10,
+      "rhythm_diversity_mean": 0.0402,
+      "rhythm_diversity_std": 0.0229,
+      "repetition_ratio_mean": 0.3693,
+      "repetition_ratio_std": 0.2296
+    }
+  ]
+}
