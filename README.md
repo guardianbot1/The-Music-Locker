@@ -4,7 +4,7 @@
 **Course:** CSE425 / EEE474 — Neural Networks  
 **Institution:** Brac University, Dhaka, Bangladesh
 
-**This project represents a collaborative effort with equal contributions from Abrar Masud and Sadib Jaman.
+**This project represents a collaborative effort with equal contributions from Abrar Masud and Sadib Jaman.**
 
 ---
 ##DRIVE LINK FOR REPORT AND MIDI FILE
