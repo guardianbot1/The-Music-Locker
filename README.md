@@ -97,11 +97,7 @@ pip install pretty_midi numpy matplotlib
 pip install miditok miditoolkit
 ```
 
-### 2. Update all paths
-
-Before running anything, open `src/config.py` and update every path to match your local machine. Search for `D:\\Work\\CODE\\Music Repo` and replace with your actual project root. All other scripts read their paths from `config.py`.
-
-### 3. Download datasets
+### 2. Download datasets
 
 - **MAESTRO v3:** https://magenta.tensorflow.org/datasets/maestro  
   Extract into `data/raw_midi/maestro-v3.0.0/`
